@@ -96,10 +96,8 @@ After you're finished please remove all the comments and instructions!
 
 
 
-## 🔭 Future Features <a name="future-features"></a>
-
-
-
+##  To run the project, execute the following command:
+  git clone https://github.com/rosemutai/hello-microverse.git
 
 > Give credit to everyone who inspired your codebase.
 
