@@ -150,7 +150,7 @@ npm
 Example command:
 ```sh
   cd my-project
-  npm init -y
+  npm install
 ```
 ### Usage
 To run the project, execute the following command:
